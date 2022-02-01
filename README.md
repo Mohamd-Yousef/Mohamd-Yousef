@@ -25,7 +25,7 @@
 <!-- Business-->
 <h3 align="left">Business</h3>
 
-- :email: [Contact me via Gmail](mohamedyosef21399@gmail.com)
+- :email: [Contact me via Gmail](https://mail.google.com/mail/u/?authuser=abdo.gelany90@DOMAIN.COM)
 - :paperclip: [My CV/Resume](https://drive.google.com/file/d/110rEoNQV5P5QqYBFgOo_K41JnLKLtqEd/view?usp=sharing)
 
 - 🔭 I’m currently working on ...
