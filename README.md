@@ -11,29 +11,25 @@
 <!-- About-->
 <h3 align="left">About</h3>
 
-* :fountain_pen: At the moment, expanding my knowledge in data science subject
+* :fountain_pen: At the moment, expanding my knowledge in Data Science and Machine Learning
 * :mortar_board: Currently, I have one semester left to get my degree
-* :hourglass_flowing_sand: Looking forward to be teaching assistant
-* :computer: May count on my assistance in:
-     * Networking
-     * Communication Networks
-     * Cybersecurity
-     * Data Science
-     * Computer Science
-* :egypt:
+* :hourglass_flowing_sand: Looking forward to pursuing a career in Data Science
+
 
 <!-- Business-->
 <h3 align="left">Business</h3>
 
-- :email: [Contact me via Gmail :] mohamedyosef21399@gmail.com
+- :email: Contact me via Gmail : mohamedyosef21399@gmail.com
 - :paperclip: [My CV/Resume](https://drive.google.com/file/d/110rEoNQV5P5QqYBFgOo_K41JnLKLtqEd/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align = "center">
+<a>
+<!-- Language and tools badge-->
+<h3 align="center">🛠️ Languages & Tools</h3>
+<img align="center" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="center" alt="Java" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="center" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="center" alt="MySQL" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="center" alt="MongoDB" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+</a>
